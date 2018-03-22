@@ -1,0 +1,12 @@
+@font-face {
+	font-family: 'quake2';
+	src: url('./quake2.ttf') format('quake2');
+	font-weight: 600;
+	font-style: normal;
+}
+
+.hello-container {
+	color: blue;
+	font-family: 'quake2';
+	/*background: url('./programming.png');*/
+}
